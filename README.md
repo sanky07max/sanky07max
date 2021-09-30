@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanky07max
-- 👀 I’m interested in coding and programming
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me -: sanketkawle91@gmail.com
